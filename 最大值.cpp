@@ -10,9 +10,9 @@ scanf("%d%d%d",&x,&y,&z);
 	
 	
 	else if(y>x&&y>z)
-	printf("max£º%d\n",y);
+	printf("max：%d\n",y);
 	
 	else if(z>x&&z>y)
-	printf("max£º%d\n",z); 
+	printf("max：%d\n",z); 
 	return 0;
 }
