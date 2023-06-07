@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{printf("100以内的奇数\n");
+{printf("100浠ュ唴鐨勫鏁癨n");
    int i;
    while(i<=100)
    {if(i%2==1)
