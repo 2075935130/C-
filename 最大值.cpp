@@ -2,7 +2,7 @@
 int main()
 {
 int x,y,z;
-printf("ÇëÊäÈëx£¬y£¬zµÄÊý\n"); 
+printf("è¯·è¾“å…¥xï¼Œyï¼Œzçš„æ•°\n"); 
 scanf("%d%d%d",&x,&y,&z);
 
 	if(x>y&&x>z)
@@ -10,9 +10,9 @@ scanf("%d%d%d",&x,&y,&z);
 	
 	
 	else if(y>x&&y>z)
-	printf("max£º%d\n",y);
+	printf("maxÂ£Âº%d\n",y);
 	
 	else if(z>x&&z>y)
-	printf("max£º%d\n",z); 
+	printf("maxÂ£Âº%d\n",z); 
 	return 0;
 }
