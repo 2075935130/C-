@@ -1,29 +1,30 @@
 #include<stdio.h>
 int main()
 { int i=0;
+ printf("è¯·è¾“å…¥1åˆ°7çš„æ•°ï¼š");
   scanf("%d",&i);
   switch(i)
   {
   case 1:
-  	printf("ÐÇÆÚ1\n");
+  	printf("æ˜ŸæœŸ1\n");
   	break;
   	case 2:
-  	printf("ÐÇÆÚ2\n");
+  	printf("æ˜ŸæœŸ2\n");
   	break;
   	case 3:
-  	printf("ÐÇÆÚ\3n");
+  	printf("æ˜ŸæœŸ\3n");
   	break;
   	case 4:
-  	printf("ÐÇÆÚ4\n");
+  	printf("æ˜ŸæœŸ4\n");
   	break;
   	case 5:
-  	printf("ÐÇÆÚ5\n");
+  	printf("æ˜ŸæœŸ5\n");
   	break;
   	case 6:
-  	printf("ÐÇÆÚ6\n");
+  	printf("æ˜ŸæœŸ6\n");
   	break;
   	case 7:
-  	printf("ÐÇÆÚ7\n");
+  	printf("æ˜ŸæœŸ7\n");
   	break;
   
 }
