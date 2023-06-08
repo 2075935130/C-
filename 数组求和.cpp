@@ -11,8 +11,7 @@ int main()
 		
 		max+=*(p+i);
      	}
-	     printf("Êý×éµÄºÍ£º%d\n",max);
-	
+	    printf("æ•°ç»„çš„å’Œï¼š%d\n",max);
 	
 	
 	
