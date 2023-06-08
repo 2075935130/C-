@@ -4,8 +4,8 @@ int main()
  int n[12]={31,28,31,30,31,30,31,31,30,31,30,31};
  int x,y,z;
  int i,sum;
- printf("ÇëÊäÈëÄêÔÂÈÕ£º");
- scanf("%d%d%d",&z,&y,&z);
+ printf("è¯·è¾“å…¥å¹´æœˆæ—¥ï¼š");
+ scanf("%d-%d-%d",&z,&y,&z);
  for(i=0;i<y-1;i++)
  {
  	sum=sum+n[i];
