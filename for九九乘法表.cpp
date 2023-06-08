@@ -7,7 +7,7 @@ int temp;
   {
   	for(y=1;y<=x;y++)
 	  {
-	  	printf("%d*%d=%d",x,y,x*y);
+	  	printf("%d*%d=%d ",x,y,x*y);
 	  	
 		   } 	
   	
